@@ -7,8 +7,9 @@ React project using Material UI.
 Install dependencies.
 
 ```bash
-$ bun install v1.1.26 (0a37423b)
+$ bun install
 
+bun install v1.1.26 (0a37423b)
 Checked 312 installs across 349 packages (no changes) [29.00ms]
 ```
 
