@@ -26,7 +26,7 @@ $ bun run start
 
 ## Deploy to Prod
 
-Build to production files to the `build` folder then git commit and push to Github.
+Build to production files to the `docs` folder then git commit and push to Github.
 
 ```bash
 $ bun run build

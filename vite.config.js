@@ -15,7 +15,7 @@ export default defineConfig({
     }),
   ],
   build: {
-    outDir: "build",
+    outDir: "docs",
     sourcemap: true,
   },
   server: {
