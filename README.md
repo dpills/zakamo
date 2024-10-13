@@ -1,6 +1,6 @@
 # Zakamo
 
-React project using Material UI.
+React project using [Material UI](https://mui.com/material-ui/all-components/).
 
 ## Development
 
