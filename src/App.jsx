@@ -15,7 +15,7 @@ export function App() {
 
   return (
     <div>
-      <AppBar position="static">
+      <AppBar>
         <Toolbar>
           <Typography variant="h6" component="div">
             Zakamo
@@ -23,7 +23,7 @@ export function App() {
         </Toolbar>
       </AppBar>
 
-      <div className="section">
+      <div id="content">
         <Grid container spacing={3}>
           <Grid size={6}>
             <Typography variant="h4">Cat {catName}</Typography>

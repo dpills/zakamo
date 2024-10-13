@@ -1,5 +1,6 @@
-.section {
-  margin: 8px;
+#content {
+  margin-top: 72px !important;
+  margin: 12px;
 }
 
 .pets {
